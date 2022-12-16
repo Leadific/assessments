@@ -29,8 +29,9 @@ Output: ["g1 act car","a8 act zoo","ab1 off key dog","a1 9 2 3 1","zo4 4 7"]
  ```
 
 Constraints:
-
+```
 1 <= logs.length <= 100
 3 <= logs[i].length <= 100
 All the tokens of logs[i] are separated by a single space.
 logs[i] is guaranteed to have an identifier and at least one word after the identifier.
+```
